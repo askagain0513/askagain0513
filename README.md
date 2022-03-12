@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @askagain0513
+- 👋 Hi, I’m @Bhaskar Mehar
 - 👀 I’m interested in ...learning how to enjoy to write a code
 - 🌱 I’m currently learning ...python
 - 💞️ I’m looking to collaborate on ...python learning 
